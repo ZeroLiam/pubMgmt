@@ -1,0 +1,37 @@
+.modal-content{
+	.inputContentParent{
+		display: flex;
+	}
+}
+.modal-content .inputContent{
+	margin-bottom: 4px;
+	margin-left: 28px;
+}
+.modal-content .inputContent label{
+	width: 100px;
+	text-align: right;
+	margin-right: 4px;
+	margin-left: 30px;
+}
+.modal-content .modal-body .name-title{
+	color:#444444;
+}
+
+.modal-content .missing-field{
+	margin-bottom: 8px;
+	margin-left: 18px;
+}
+
+.modal-content #add_cpm, .modal-content .cpm-input {
+	margin-right: 8px;
+}
+
+.modal-content #add_cpm {
+	width: 140px;
+}
+
+.modal-content .add-group{
+	height: 26px;
+	font-size: 14px;
+	padding: 0px 12px;
+}
